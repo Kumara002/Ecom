@@ -12,7 +12,10 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Snipcart Store</title>
+        <title>Kumara Game Store</title>
+        <link rel="preconnect" href="https://app.snipcart.com" />
+        <link rel="preconnect" href="https://cdn.snipcart.com" />
+        <link rel="stylesheet" href="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.css" />
       </Head>
       <Container className={styles.homeContainer}>
         <div className={styles.grid}>
@@ -41,6 +44,8 @@ export default function Home() {
             );
           })}
         </div>
+        <script async src="https://cdn.snipcart.com/themes/v3.2.2/default/snipcart.js" />
+          <div hidden id="snipcart" data-api-key="MjZiYzA3OWUtNDU0OS00NTZjLWJlZmEtMmI5YmY0OWFhMjM0NjM4MTMwOTIxOTM4NDUxMTYy" />
       </Container>
     </Layout>
   )

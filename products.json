@@ -1,16 +1,37 @@
 [
   {
-    "title": "Snipcart Logo Sticker",
-    "id": "sticker_logo",
-    "description": "Show off your Snipcart support with a logo sticker!",
-    "price": "2.00",
-    "image": "/images/sticker-single.jpg"
+    "title": "Play Station 4 Controller",
+    "id": "ps4-controller",
+    "description": "Explore the world of gaming!",
+    "price": "24,000",
+    "image": "/images/Ps4controller.png"
   },
   {
-    "title": "Snipcart Logo Sticker Pack",
-    "id": "sticker_logo_pack",
-    "description": "Get a pack of 3 Snipcart logo stickers.",
-    "price": "4.00",
-    "image": "/images/sticker-3pack.jpg"
+    "title": "Ps-4 Joystick",
+    "id": "ps-4-joystick-spl",
+    "description": "Have a feast with all new Ps-4 joystick.",
+    "price": "6000",
+    "image": "/images/ps4joystickspl.png"
+  },
+  {
+    "title": "Ps-4 Joystick Casual",
+    "id": "ps-4-joystick-normal",
+    "description": "Have a control with all new Ps-4 joystick.",
+    "price": "3000",
+    "image": "/images/ps4joysticknormal.png"
+  },
+  {
+    "title": "Ps-4 twin move",
+    "id": "ps-4-move",
+    "description": "Why should all time play with rest mode?.",
+    "price": "9000",
+    "image": "/images/moveps4.png"
+  },
+  {
+    "title": "God of War fan gear",
+    "id": "fangear-1",
+    "description": "Be a fan not a ceiling fan",
+    "price": "1500",
+    "image": "/images/fangear2.jpg"
   }
 ]
